@@ -1,4 +1,6 @@
-# 💇 V Unisex Salon – Appointment Booking App UI
+# 💇 V Unisex Salon App – UI/UX Design
+
+![Logo](LOGO.png)
 
 ## 📌 Project Overview
 
@@ -9,8 +11,8 @@ The application allows users to:
 - Login and Register
 - Browse salon services
 - Search for services
-- View pricing details
-- Book appointments
+- View service pricing
+- Book salon appointments
 - Select available time slots
 - Receive booking confirmation
 
@@ -22,71 +24,52 @@ The application allows users to:
 - Login Screen
 - Home Screen
 - Search Screen
-- Service Details
+- Haircut Details
+- Massage Details
+- Facial Details
+- Hair Colour Details
 - Appointment Booking
-- Slot Selection
 - Booking Confirmation
 - Interactive Prototype
 
 ---
 
-## ✨ Services Included
+## 📱 Screens Designed
 
-- Haircut & Styling
-- Hair Spa
-- Facial Treatment
-- Hair Coloring
-- Beard Grooming
-- Bridal Makeup
-
----
-
-## 📱 User Flow
-
-Splash Screen
-
-↓
-
-Login
-
-↓
-
-Home Screen
-
-↓
-
-Select Service
-
-↓
-
-View Service Details
-
-↓
-
-Book Appointment
-
-↓
-
-Choose Time Slot
-
-↓
-
-Booking Confirmation
+| Screen | Description |
+|----------|-------------|
+| Splash Screen | App welcome screen |
+| Login | User login |
+| Home | Browse available services |
+| Search | Search services |
+| Haircut Details | Haircut packages and pricing |
+| Massage Details | Massage packages and pricing |
+| Facial Details | Facial packages and pricing |
+| Hair Colour Details | Hair colour options and pricing |
+| Appointment | Slot selection and booking |
+| Confirmation | Booking success screen |
 
 ---
 
-## 🎨 Design Tools & Skills
+## 🎨 Design Tools
 
 - Figma
 - UI Design
-- Interactive Prototyping
+- Prototyping
 - User Flow Design
-- Wireframing
-- Mobile App Design
 
 ---
 
-## 📸 Screenshots
+## ✂️ Services Included
+
+- Haircut
+- Massage
+- Facial
+- Hair Colour
+
+---
+
+## 📸 App Screenshots
 
 ### Splash Screen
 ![Splash](Screenshots/1.Splash%20Screen.png)
@@ -101,22 +84,22 @@ Booking Confirmation
 ![Search](Screenshots/4.Search%20Screen.png)
 
 ### Haircut Details
-![Haircut](Screenshots/5.Haircut%20Details.png)
+![Haircut](Screenshots/5.Service%20Details%201.png)
 
 ### Massage Details
-![Massage](Screenshots/6.Massage%20Details.png)
+![Massage](Screenshots/6.Service%20Details%202.png)
 
 ### Facial Details
-![Facial](Screenshots/7.Facial%20Details.png)
+![Facial](Screenshots/7.Service%20Details%203.png)
 
 ### Hair Colour Details
-![Hair Colour](Screenshots/8.Hair%20Colour%20Details.png)
+![HairColour](Screenshots/8.Service%20Details%204.png)
 
 ### Appointment Booking
-![Booking](Screenshots/9.Appointment%20Booking.png)
+![Appointment](Screenshots/9.Booking%20Confirmation%20Screen.png)
 
 ### Booking Confirmation
-![Confirmation](Screenshots/10.Booking%20Confirmation.png)
+![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen-1.png)
 
 ---
 
@@ -130,35 +113,10 @@ https://www.figma.com/proto/mAVWYYfhzhv3T3CU6kZeAV/Task-2?node-id=0-1&t=HKnzhiSc
 
 ---
 
-## 📁 Repository Structure
-
-```text
-FUTURE_UX_02
-│
-├── README.md
-├── index.html
-│
-└── Screenshots/
-    ├── 1.Splash Screen.png
-    ├── 2.Login Screen.png
-    ├── 3.Home Screen.png
-    ├── 4.Search Screen.png
-    ├── 5.Haircut Details.png
-    ├── 6.Massage Details.png
-    ├── 7.Facial Details.png
-    ├── 8.Hair Colour Details.png
-    ├── 9.Appointment Booking.png
-    └── 10.Booking Confirmation.png
-```
-
----
-
 ## 👨‍💻 Designed By
 
 **IYYAPPAN VYSHNAV**
 
-UI/UX Design Intern
+UI/UX Internship Project – FUTURE_UX_02
 
-Project: FUTURE_UX_02 – V Unisex Salon Appointment Booking App
-
-📍 India
+2026
