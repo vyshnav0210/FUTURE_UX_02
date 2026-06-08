@@ -1,6 +1,6 @@
 # 💇 V Unisex Salon App – UI/UX Design
 
-![Logo](LOGO.png)
+![Logo](Screenshots/LOGO.png)
 
 ## 📌 Project Overview
 
@@ -99,7 +99,11 @@ The application allows users to:
 ![Appointment](Screenshots/9.Booking%20Confirmation%20Screen.png)
 
 ### Booking Confirmation
-![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen-1.png)
+![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen.png)
+
+## 📱 Complete App Preview
+
+![App Preview](Screenshots/Task-2.png)
 
 ---
 
